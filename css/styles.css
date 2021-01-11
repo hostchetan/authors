@@ -1,0 +1,158 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Headland One', serif;
+  font-size: 50px;
+}
+img{
+  height: 186px;
+  width: 186px;
+}
+.heading{
+  padding-top: 50px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.container-1{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.arthur{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.arundhati{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.gillian{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-2{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.john{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.paulo{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.rk{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-3{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.robin{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.shashi{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.coonts{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-4{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.king{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.theodor{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.vikram{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-5{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.wiliam{display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
